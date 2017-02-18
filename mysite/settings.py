@@ -25,7 +25,7 @@ SECRET_KEY = 'sqyv(193_)ciy9(^y6t^=n^o4qpnj%2f-)nzzd%iv2(he9t)m4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djangonadine.pythonanywhere.com']
 
 
 # Application definition
